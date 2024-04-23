@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a sixth semester Data Science student, currently interested in BI analysis.
+I'm a sixth semester Data Science student, interested in BI analysis.
 
 
 # Hi, I'm Jimena! 👋
