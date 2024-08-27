@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-Sixth semester Data Science student, interested in BI analysis.
+Seventh semester Data Science student, interested in BI and Machine Learning.
 
 ## 🛠 Skills
 - Python
@@ -13,7 +13,7 @@ Sixth semester Data Science student, interested in BI analysis.
 
 ## Summary of my Journey
 
-🧠 Currently learning Machine Learning
+🧠 Currently learning Deep Learning and Big Data
 
 
 
