@@ -1,20 +1,21 @@
 
 ## 🚀 About Me
-Seventh semester Data Science student, interested in BI and Machine Learning.
+9th semester Data Science and Artifical Intelligence student, especialized in AI Engineering.
 
 ## 🛠 Skills
 - Python
-- Rstudio
-- Power BI
-- Tableau
-- Data Wrangling
-- Data Visualization
+- Google ADK
+- RAG
+- Prompt Engineering
+- Multiagent Systems
+- Generative AI
+- Conversational Agents
+- CI/CD
 
 
 ## Summary of my Journey
 
-🧠 Currently learning Deep Learning and Big Data
-
+🧠 Currently learning about GraphRAG and Ontology for AI Agents
 
 
 
