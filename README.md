@@ -1,11 +1,12 @@
 
 ## 🚀 About Me
-9th semester Data Science and Artifical Intelligence student, especialized in AI Engineering.
+9th semester Data Science and Artificial Intelligence student, with experience in AI Engineering and MLOps.
 
 ## 🛠 Skills
 - Python
 - Google ADK
-- RAG
+- Kedro
+- Django
 - Prompt Engineering
 - Multiagent Systems
 - Generative AI
